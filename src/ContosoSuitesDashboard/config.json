@@ -1,12 +1,12 @@
 {
-    "AOAIEndpoint": "https://workshopia.openai.azure.com/",
+    "AOAIEndpoint": "TODO",
     "AOAIKey": "TODO",
     "AOAIDeploymentName": "gpt-4o",
-    "SearchEndpoint": "https://5ftarfdno2nra-search.search.windows.net",
+    "SearchEndpoint": "TODO",
     "SearchKey": "TODO",
     "SearchIndex": "resort",
     "SpeechKey": "TODO",
     "SpeechRegion": " eastus2",
-    "LanguageEndpoint": "https://workshop-language.cognitiveservices.azure.com/",
+    "LanguageEndpoint": "TODO",
     "LanguageKey": "TODO"
 }
