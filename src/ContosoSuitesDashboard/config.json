@@ -1,12 +1,12 @@
 {
     "AOAIEndpoint": "https://workshopia.openai.azure.com/",
-    "AOAIKey": "aca68254a279463fb7cc756bdeea00c9",
+    "AOAIKey": "TODO",
     "AOAIDeploymentName": "gpt-4o",
     "SearchEndpoint": "https://5ftarfdno2nra-search.search.windows.net",
-    "SearchKey": "ne7D2Jh2GGvwdqFfm3jYkhVuz6VpzfXjrZ1vYS4GssAzSeBzMELF",
+    "SearchKey": "TODO",
     "SearchIndex": "resort",
-    "SpeechKey": "ACT9Q2NyzD5DLwaZfjpEUB1iS9RpR9S0yXamxUGISbBr6PavNbR2JQQJ99AJACHYHv6XJ3w3AAAYACOGLMy5",
+    "SpeechKey": "TODO",
     "SpeechRegion": " eastus2",
     "LanguageEndpoint": "https://workshop-language.cognitiveservices.azure.com/",
-    "LanguageKey": "9MJiTZjdrin6Hq6i48QZP0ob4ZLDYxs4wOBC7k62lYLpP4R6OmknJQQJ99AJACYeBjFXJ3w3AAAaACOGYxtJ"
+    "LanguageKey": "TODO"
 }
