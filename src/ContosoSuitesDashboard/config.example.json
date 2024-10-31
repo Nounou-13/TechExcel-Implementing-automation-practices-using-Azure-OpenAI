@@ -1,0 +1,12 @@
+{
+    "AOAIEndpoint": "YOUR_AOAI_ENDPOINT",
+    "AOAIKey": "YOUR_AOAI_KEY",
+    "AOAIDeploymentName": "gpt-4o",
+    "SearchEndpoint": "YOUR_SEARCH_ENDPOINT",
+    "SearchKey": "YOUR_SEARCH_KEY",
+    "SearchIndex": "resort",
+    "SpeechKey": "YOUR_SPEECH_KEY",
+    "SpeechRegion": "eastus2",
+    "LanguageEndpoint": "YOUR_LANGUAGE_ENDPOINT",
+    "LanguageKey": "YOUR_LANGUAGE_KEY"
+}
